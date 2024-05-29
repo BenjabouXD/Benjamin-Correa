@@ -1,0 +1,16 @@
+
+body {
+  background-color: rgb(58, 58, 58);
+  color: rgb(203, 229, 253);
+}
+body h1 {
+    color: rgb(203, 229, 253);
+    font-size: 3em;
+    transform: translate(35%);
+  }
+
+.Subtitulo{
+  font-style: italic;
+  text-shadow: 25px;
+  text-decoration: underline;
+}
